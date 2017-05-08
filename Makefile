@@ -1,6 +1,6 @@
 CXX=g++
 
-EIGEN_LOCATION=$$HOME/local/eigen_3.3-beta1
+EIGEN_LOCATION=$$HOME/local/eigen_3.3-beta1 # Modify here to use Eigen
 BUILD_DIR=objs
 
 CXXFLAGS =-Wall
