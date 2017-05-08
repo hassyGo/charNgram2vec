@@ -16,3 +16,6 @@ More details will come soon!
       MONTH =   {November},
       URL   =   {http://arxiv.org/abs/1611.01587},
     }
+
+## Licence ##
+MIT licence
